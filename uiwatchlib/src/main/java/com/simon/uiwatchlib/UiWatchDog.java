@@ -11,11 +11,7 @@ import android.util.Log;
  */
 
 public class UiWatchDog {
-    //  public static void start() {
 
-//        Looper.getMainLooper().setMessageLogging();
-
-    //}
     public static final String TAG = "UiWatchDog";
 
     private static UiWatchDog mInstance = new UiWatchDog();

@@ -5,8 +5,9 @@ import android.app.Application;
 import com.simon.uiwatchlib.UiWatchDog;
 
 /**
- * Created by guohaiyang on 2017/7/1.
- */
+ * description: 用于测试Application
+ * autour: Simon
+*/
 
 public class TestApplication extends Application {
     @Override
