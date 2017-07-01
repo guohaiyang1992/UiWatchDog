@@ -31,7 +31,7 @@
 
 测试打印信息：
 
-```
+```java
 simon:
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 |  Ui Thread blocking more than 1000 ms in this postion: 
