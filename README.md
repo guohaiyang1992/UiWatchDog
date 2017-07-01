@@ -15,7 +15,7 @@
 
  - 在你自己的Application内使用如下代码即可：
 
- ```
+ ```java
  public class TestApplication extends Application {
     @Override
     public void onCreate() {
