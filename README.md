@@ -15,7 +15,7 @@
 
  - 在你自己的Application内使用如下代码即可：
 
-```
+ ```
  public class TestApplication extends Application {
     @Override
     public void onCreate() {
@@ -27,9 +27,10 @@
 }
  ```
 
+---
 
-```
 测试打印信息：
+
 ```
 simon:
 |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
@@ -38,13 +39,15 @@ simon:
 |_______________________________________________________________
 ```
 
----
 
+
+
+
+---
 
 引入方法：
 
  - 在你的Project的 build.gradle 按下面的操作配置仓库。
- 
 ```
 	allprojects {
 		repositories {
@@ -53,7 +56,6 @@ simon:
 		}
 	}
 ```
-
 
  - 然后在你对应的Modlule内的build.gradle内按下面的方式进行引入。
 
