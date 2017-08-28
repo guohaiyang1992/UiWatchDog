@@ -1,10 +1,9 @@
-package com.simon.uiwatchlib;
+package com.simon.uiwatchlib.core;
 
-import android.os.Looper;
 import android.util.Printer;
 
 /**
- * description: 日志打印
+ * description: 日志打印 监听
  * autour: Simon
  * created at 2017/7/1 下午8:21
  */
