@@ -64,6 +64,6 @@ simon:
 
 ```
 dependencies {
-     compile 'com.github.guohaiyang1992:UiWatchDog:1.0'
+     compile 'com.github.guohaiyang1992:UiWatchDog:1.1'
 	}
 ```
